@@ -2,7 +2,7 @@
 
 ## Responive Web Hosting Landing Page
 
-- It is a Responsive Web Hosting Landing Page built uisng HTML & CSS.
+- It is a Responsive Web Hosting Landing Page built using HTML & CSS.
 - Media Queries(CSS) used to make webpage responsive.
 
 
